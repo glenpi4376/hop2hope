@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow wp-content
+!wp-content/
+
+# Allow themes
+!wp-content/themes/
+!wp-content/themes/**
+
+# Ignore uploads
+wp-content/uploads/
+
+# Ignore config
+wp-config.php
+.env
